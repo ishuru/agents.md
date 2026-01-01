@@ -1,0 +1,10 @@
+{
+  "upstreams": [
+    {
+      "name": "agentsmd/agents.md",
+      "repo": "https://github.com/agentsmd/agents.md",
+      "branch": "main",
+      "notes": "Primary upstream for AGENTS.md format/spec."
+    }
+  ]
+}
